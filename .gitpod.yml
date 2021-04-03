@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: apon77/aosp:latest
 
 tasks:
   - init: .gitpod.yml
