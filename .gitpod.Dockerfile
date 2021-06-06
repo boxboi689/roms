@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full-vnc
+FROM ubuntu/trusty
 
 
 # Install custom tools, runtimes, etc.
