@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full-vnc
+FROM ubuntu/14.04
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
